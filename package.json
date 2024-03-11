@@ -1,0 +1,22 @@
+{
+  "name": "media-query",
+  "version": "1.0.0",
+  "description": "learn about sass and media query",
+  "main": "index.js",
+  "scripts": {
+    "node-sass": "node-sass -w sass/ -o css/ -r"
+  },
+  "keywords": [
+    "sass",
+    "media-guery"
+  ],
+  "author": "mohsenfr_",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "4.6",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.7.1",
+    "live-server": "^1.2.2",
+    "node-sass": "^9.0.0"
+  }
+}

@@ -1,0 +1,10 @@
+@import url(/css/header-xl.css);
+@import url(/css/header-l.css);
+@import url(/css/header-m.css);
+@import url(/css/header-s.css);
+@import url(/css/header-es.css);
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
